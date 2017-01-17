@@ -9,7 +9,7 @@
 A band website created to practice using Floats, and creating columns.
 
 You can locate the site here:
-
+https://emdok.github.io/band-site/
 
 ## Technologies Used
 

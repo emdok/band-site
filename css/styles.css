@@ -39,3 +39,8 @@ p {
 body {
   background-color: #ECECEC;
 }
+img.row {
+  width: 20%;
+  float: left;
+  padding: 5px 5px 20px 5px;
+}
